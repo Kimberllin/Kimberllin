@@ -4,7 +4,10 @@
  🔭 Atualmente eu trabalho com Governança de TI/JavaScript <br>
  🌱 Estou aprendendo JavaScript e C# <br>
  <br>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical)
+ <a href="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical">
+  <img  src="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical" width="450"/>
+</a>
+ 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true" />
 </a>
