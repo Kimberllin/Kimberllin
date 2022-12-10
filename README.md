@@ -5,11 +5,11 @@
  🌱 Estou aprendendo JavaScript e C# <br>
  <br>
  <a href="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical">
-  <img  src="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical" width="400"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical"/>
 </a>
  
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true" />
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true&layout=compact">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true&layout=compact" />
 </a>
 
 <a href="https://www.linkedin.com/in/kimberllin-martins-84a348208/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
