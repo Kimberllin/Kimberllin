@@ -5,7 +5,7 @@
  🌱 Estou aprendendo JavaScript e C# <br>
  <br>
  <a href="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical">
-  <img  src="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical" width="450"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical" width="400"/>
 </a>
  
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical&count_private=true">
