@@ -1,16 +1,12 @@
-### Hi there 👋
+ <img align="right" src="https://media.giphy.com/media/lTRUNQrthgIAGo5xvO/giphy.gif" width="200" height="200"/>
+### Oii! Meu nome é Kimberllin, mas pode me chamar de Kim! 👋
+ 
+ 🔭 Atualmente eu trabalho com Governança de TI/JavaScript <br>
+ 🌱 Estou aprendendo JavaScript e C# <br>
+ <br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimberllin&count_private=true&show_icons=true&theme=radical)
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberllin&theme=radical" />
+</a>
 
-<!--
-**Kimberllin/Kimberllin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/kimberllin-martins-84a348208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
